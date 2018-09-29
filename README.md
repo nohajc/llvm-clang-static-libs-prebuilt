@@ -2,4 +2,4 @@
 Prebuilt static libraries for development of LLVM/Clang-based tools
 
 ## Available versions
-* __6.0.1__
+* [6.0.1](https://github.com/nohajc/llvm-clang-static-libs-prebuilt/releases/tag/v6.0.1)
